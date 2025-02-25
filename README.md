@@ -1,1 +1,1 @@
-# case-thyroid-cancer-data-analysis
+![Case Thyroid Cancer Risk](https://github.com/Barbara-Lizama/case-thyroid-cancer-data-analysis/blob/master/Case%20Thyroid%20Cancer%20Risk.ipynb)
